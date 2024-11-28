@@ -34,7 +34,8 @@ A web-based Flash-Card application built with ReactJS, CSS, Flask, and MySQL. Us
 
 ![image](https://github.com/user-attachments/assets/6052328b-1db1-4a31-b4b4-189917cd2ca0)
 
-![image](https://github.com/user-attachments/assets/cb2751f5-4312-4c93-afbd-142db57f5cc8)
+![image](https://github.com/user-attachments/assets/4c0ac3b0-37ca-420d-8c5e-e0d32dd37720)
+
 
 
 
